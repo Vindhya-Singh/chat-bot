@@ -600,7 +600,7 @@ class ScheduleHandler{
                 let chatId = secretMap.chatId;
                 if(config.debug.actionMessages) {
                     await Communicator.sendMessage(bot, participant, chatId,
-                        "(Debug) Question scheduled for following time: "
+                        "Question scheduled for following time: "
                         + '\n' + scheduledQuestionInfo.atTime + " - " + scheduledQuestionInfo.onDays.join(', ')  + "\n"
                         + ((scheduledQuestionInfo.if) ? "if: " + scheduledQuestionInfo.if : ""), true, true);
                 }

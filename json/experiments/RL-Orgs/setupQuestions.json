@@ -84,16 +84,16 @@
   {
     "qId": "companyQuestion",
     "text": {
-      "English": "What is the name of the <b>company</b> you work for? (This is <b>NOT</b> the team name you were assigned.)",
-      "Deutsch": "Wie heißt die <b>Firma</b>, bei der Sie arbeiten? (Dies ist <b>NICHT</b> der Teamname, den Sie bekommen haben.)"
+      "English": "What is your <b>Prolific ID</b>? (This is <b>NOT</b> the team name you were assigned.)",
+      "Deutsch": "Wie heißt die <b>Prolific ID</b>? (Dies ist <b>NICHT</b> der Teamname, den Sie bekommen haben.)"
     },
     "qType": "freeform",
     "replyMessages": {
       "English": [
-        "Thank you, company name has been registered."
+        "Thank you, your Prolific ID has been registered."
       ],
       "Deutsch": [
-        "Vielen Dank, Ihre Firma wurde erfasst."
+        "Vielen Dank, Ihre Prolific ID wurde erfasst."
       ]
     },
     "nextActions" : [
@@ -108,8 +108,8 @@
   {
     "qId": "pIdQuestion",
     "text": {
-      "English": "What is your team name? Please ensure to avoid mistakes so that you can be identified correctly! If you are the leader of your team, make sure to include the suffix \"-Leader\" as instructed earlier.",
-      "Deutsch": "Bitte geben Sie Ihren Teamnamen ein. Bitte achten Sie darauf, Tippfehler zu vermeiden, damit Sie korrekt identifiziert werden können! Wenn Sie die Führungskraft Ihres Teams sind, stellen Sie sicher, die Ergänzung \"-Leader\" mit hineinzuschreiben, wie vorhin angewiesen."
+      "English": "What is your team name? Please ensure to avoid mistakes so that you can be identified correctly!",
+      "Deutsch": "Bitte geben Sie Ihren Teamnamen ein. Bitte achten Sie darauf, Tippfehler zu vermeiden, damit Sie korrekt identifiziert werden können!"
     },
     "qType": "freeform",
     "answerShouldBe" : "$F{data/RL-Orgs/teamnames.json}",

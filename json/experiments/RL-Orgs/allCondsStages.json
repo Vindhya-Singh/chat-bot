@@ -1,20 +1,16 @@
 [
   {
     "name" : "Onboarding",
-    "onDays" : ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    "onDays" : ["Fri"] 
   },
   {
     "name" : "Pre-Test",
-    "onDays" : ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    "onDays" : ["Fri"]
   },
   {
     "name" : "Goal-Setting",
     "onDays" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
     "lengthDays" : 5
-  },
-  {
-    "name" : "Pre-Test-2",
-    "onDays" : ["Mon", "Tue", "Wed", "Thu", "Fri"]
   },
   {
     "name" : "Intervention",
