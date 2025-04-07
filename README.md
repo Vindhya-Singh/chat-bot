@@ -1,6 +1,6 @@
 # Leader Success Bot
 
-This repository contains a Node.js infrastructure to specify chatbots for reflective learning. A reflective learning chatbot is one that interacts with a user, asking questions which prompt them to reflect on some aspect of their lives. The main purpose of this software is for running experiments on participants and collecting their answers as data.
+This repository contains a Node.js infrastructure to specify chatbots for reflective learning. The Leader Success Bot interacts with a user, guiding them to set SMART goals to foster inclusion in teams. The main purpose of this software is to run experiments on participants and collect their answers as data.
 
 Once downloaded and set up, the infrastructure can be used by simply designing the experiments, i.e., the questions to be asked, when they are to be asked, etc., in a file and running the software. 
 
