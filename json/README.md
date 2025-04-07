@@ -13,7 +13,7 @@ This folder contains the following directories for storing json files.
 
 _(up to date for third prototype)_
 
-This pages contains all of the instructions and documentation on how to define an experiment for the Reflective Learning Chatbot in _config.json_.
+This pages contains all of the instructions and documentation on how to define an experiment for the Leader Success Bot in _config.json_.
 
 Sections 1-3 give you a quick overview of the structure of the experiment configuration file, as well as a short example to get started quickly.
 
