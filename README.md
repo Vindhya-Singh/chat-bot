@@ -12,7 +12,7 @@ Read on for further instructions on how all this is done...
 
 Setting up this repository assumes basic knowledge and installation of [Git](https://git-scm.com/), basic experience interacting with [Command Line Interfaces](https://en.wikipedia.org/wiki/Command-line_interface), and some familiarity with the [JSON](https://www.json.org/json-en.html) file format.
 
-To completely set up a Reflective Learning Chatbot that you can interact with, you will need the following things, which the instructions will walk you through: 
+To completely set up the Leader Success Bot that you can interact with, you will need the following things, which the instructions will walk you through: 
 * A MongoDB Cloud account with a cluster set up in MongoDB Atlas
 * A Telegram bot
 * The software in this repository
@@ -276,7 +276,7 @@ Once you host the chatbot experiment on Heroku for the first time, you might wan
 ## Directory Structure of Repository
 
 ```
-ReflectiveLearningChatbots
+LeaderSuccessBot
 │   README.md
 │   index.js (chatbot entry point)    
 │   package.json
