@@ -1,7 +1,7 @@
 {
-  "name": "reflectivelearningchatbots",
+  "name": "leadersuccessbot",
   "version": "1.0.0",
-  "description": "Program to create interactive chatbots for reflective learning",
+  "description": "Program to create interactive chatbots for inclusive action planning",
   "main": "index.js",
   "scripts": {
     "test": "mocha --exit",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RationalityEnhancement/ReflectiveLearningChatbots.git"
+    "url": "to be filled with the name of the GitHub repo. Removed for blind peer-review process."
   },
-  "author": "Srinidhi Srinivas",
+  "author": "Removed for blind peer-review process",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RationalityEnhancement/ReflectiveLearningChatbots/issues"
+    "url": "Removed for blind peer-review process"
   },
-  "homepage": "https://github.com/RationalityEnhancement/ReflectiveLearningChatbots#readme",
+  "homepage": "Removed for blind peer-review process",
   "dependencies": {
     "@appsignal/nodejs": "^2.4.2",
     "chai": "^4.3.6",
