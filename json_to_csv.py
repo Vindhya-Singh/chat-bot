@@ -4,7 +4,7 @@ import moment
 import numpy as np
 import sys
 
-# This script extracts data from the downloaded JSON file for the experiment Reflective Learning in Organizations
+# This script extracts data from the downloaded JSON file for the experiment
 # and converts it into a CSV file, with each column containing answers to each of the questions
 # How to run the script:
 # python json_to_csv <experiment_id>
